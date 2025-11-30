@@ -1,5 +1,8 @@
-![](https://github.com/MacMillingComputerSoftwareEntertainment/.github/blob/main/profile/docs/logo_macmilling.png)
+<img src="./docs/logo_macmilling.png" /><br>
 
+---  
+
+  
 # 🌈 MacMilling Computer Software Entertainment Lit. 🌈
 
 ### 📍 Straight outta Ruhrpott 🏭⚡ | *Lit Lit Hammer* 🔨✨
