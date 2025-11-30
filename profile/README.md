@@ -1,4 +1,4 @@
-<img src="./docs/logo_macmilling.png" /><br>
+<img src="https://github.com/MacMillingComputerSoftwareEntertainment/.github/blob/0ed7278da9cc4fdf982616c4f17e369c75f34aea/profile/docs/logo_macmilling.png" /><br>
 
 ---  
 
